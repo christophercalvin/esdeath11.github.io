@@ -12,7 +12,10 @@ button{
 }
 fieldset{
     background-image: url(../img/rSSUY81.jpg);
+    background-size: 100%;
     margin: auto;
+    background-repeat: none;
+    padding-bottom: 10px;
 }
 legend{
     margin: auto;
@@ -21,7 +24,7 @@ legend{
     color: white;
 }
 label{
-    color: white
+    color: white;
 }
 input[type=text], select{
     width: 100%;
